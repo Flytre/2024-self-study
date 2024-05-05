@@ -1,0 +1,10 @@
+teddy bear
+painted glass eyeball,10.5,2,glass;paint
+glass,5,0,
+paint,4,0,
+teddy bear,null,4,painted glass eyeball;tiny shirt;faux bear fur fabric;sewing thread
+faux bear fur fabric,15,2,bear;yarn
+bear,100,0,
+yarn,2,0,
+sewing thread,13,0,
+tiny shirt,24,0,
