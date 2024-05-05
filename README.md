@@ -1,6 +1,12 @@
 Tracker for summer 2024 self-study for winter/summer 2025 recruiting
 
-### 5/3/24 (Day 1):
+### 3/1/24 - 5/2/24:
+
+Leetcode Medium/Hard x ~50-100
+
+OSTEP ch. 1 → ch. 30
+
+### 5/3/24:
 
 Akuna Options 101: 1% → 22%
 
