@@ -25,3 +25,15 @@ OSTEP Exercises: 5.1-5.3
 Networking Exercises: UDP Client/Server Demo
 
 C++: Square Root Decomposition (Range-Sum), Factorial Template Metaprogramming 
+
+### 5/5/24:
+
+OSTEP Exercises: 5.4-5.8
+
+Leetcode Hard x1
+
+Akuna Options 22% → 38%
+
+OSTEP re-reading: ch. 7 - 9 (Scheduling)
+
+C++: Fenwick Tree
