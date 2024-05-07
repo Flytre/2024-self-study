@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 int main() {
-    int *ptr = malloc(sizeof(int));
-    *ptr = 100;
-    printf("%d", *ptr);
+    int *data = malloc(sizeof(int) * 100);
+    data[0] = 10;
+    data[1] = 50;
+    printf("%d\n", data[1]);
+    data[100] = 0;
 }

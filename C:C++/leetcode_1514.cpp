@@ -47,8 +47,9 @@ int main() {
     int start = 0;
     int end = 2;
 
+    Solution sol;
     cout << "Maximum probability from node " << start << " to node " << end << " is: ";
-    cout << maxProbability(n, edges, succProb, start, end) << endl;
+    cout << sol.maxProbability(n, edges, succProb, start, end) << endl;
 
     return 0;
 }

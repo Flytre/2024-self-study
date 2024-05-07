@@ -37,3 +37,18 @@ Akuna Options 22% → 38%
 OSTEP re-reading: ch. 7 - 9 (Scheduling)
 
 C++: Fenwick Tree
+
+
+### 5/6/24:
+
+Leetcode Medium x4 (Floyd-Warshall, Bellman-Ford, Dijkstra, Trees)
+
+OSTEP: ch. 10 (Multiprocessor Scheduling)
+
+OSTEP review: ch 11 - 14
+
+OSTEP exercises: 14.1 - 14.7
+
+### 5/7/24:
+
+Leetcode Hard x1, Medium x1 (Both Greedy)

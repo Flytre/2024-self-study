@@ -4,6 +4,5 @@
 int main() {
     int *ptr = malloc(sizeof(int));
     *ptr = 100;
-    ptr = NULL;
     printf("%d", *ptr);
 }
