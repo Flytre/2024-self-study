@@ -52,3 +52,7 @@ OSTEP exercises: 14.1 - 14.7
 ### 5/7/24:
 
 Leetcode Hard x1, Medium x1 (Both Greedy)
+
+Jane Street Figgie Card Game x 30 mins
+
+Computer Networking: 218 → 278 (TCP/UDP)
