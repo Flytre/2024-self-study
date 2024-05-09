@@ -56,3 +56,11 @@ Leetcode Hard x1, Medium x1 (Both Greedy)
 Jane Street Figgie Card Game x 30 mins
 
 Computer Networking: 218 → 278 (TCP/UDP)
+
+### 5/8/24:
+
+Leetcode Medium x2
+
+Computer Networking re-read: 218 → 278 (Transport Layer, TCP, UDP)
+
+Computer Networking: 278 → 380  (Network Data Plane, Router I/O, IP)
