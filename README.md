@@ -64,3 +64,11 @@ Leetcode Medium x2
 Computer Networking re-read: 218 → 278 (Transport Layer, TCP, UDP)
 
 Computer Networking: 278 → 380  (Network Data Plane, Router I/O, IP)
+
+### 5/9/24:
+
+Leetcode Hard x1, Medium x1
+
+Computer Networking: 380 → 420 (Generalized Forwarding, SDNs, IP)
+
+Codeforces Huawei Challenge: Accuracy-Preserving Summation Algorithm (#248 / 1155)
