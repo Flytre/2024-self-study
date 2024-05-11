@@ -72,3 +72,11 @@ Leetcode Hard x1, Medium x1
 Computer Networking: 380 → 420 (Generalized Forwarding, SDNs, IP)
 
 Codeforces Huawei Challenge: Accuracy-Preserving Summation Algorithm (#248 / 1155)
+
+### 5/10/24:
+
+Leetcode Medium x3
+
+Codeforces Round 944 (Div. 4) (5/8 solved)
+
+The Linux Command Line: pages 1-111
