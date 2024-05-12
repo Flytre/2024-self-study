@@ -11,6 +11,9 @@
 #define _CRT_SECURE_NO_DEPRECATE
 
 
+//Wrong Answer!
+
+
 using namespace std;
 
 static unsigned julery_isqrt(unsigned long val) {

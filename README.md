@@ -44,7 +44,8 @@ C++: Fenwick Tree
 Leetcode Medium x4 (Floyd-Warshall, Bellman-Ford, Dijkstra, Trees)
 
 OSTEP: ch. 10 (Multiprocessor Scheduling)
-
+ AS
+ 
 OSTEP review: ch 11 - 14
 
 OSTEP exercises: 14.1 - 14.7
@@ -77,6 +78,19 @@ Codeforces Huawei Challenge: Accuracy-Preserving Summation Algorithm (#248 / 115
 
 Leetcode Medium x3
 
-Codeforces Round 944 (Div. 4) (5/8 solved)
+Codeforces Round 944 (Div. 4) (4/8 solved)
 
 The Linux Command Line: pages 1-111
+
+
+### 5/11/24:
+
+Leetcode Biweekly Contest 130 (3/4 solved,)
+
+Leetcode Hard x1
+
+Watched: Codeforces Round 944: Solution Video
+
+OSTEP review: ch 25 - 28 (Mutexes)
+
+Leetcode Weekly Contest 397 (top 3% finish)

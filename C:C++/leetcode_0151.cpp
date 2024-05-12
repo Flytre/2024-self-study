@@ -25,7 +25,7 @@ public:
         reverse(words.begin(), words.end());
 
         string result;
-        
+
         if (!words.empty()) {
             result = words[0];
             for (size_t i = 1; i < words.size(); ++i) {
