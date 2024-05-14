@@ -94,3 +94,28 @@ Watched: Codeforces Round 944: Solution Video
 OSTEP review: ch 25 - 28 (Mutexes)
 
 Leetcode Weekly Contest 397 (top 3% finish)
+
+
+### 5/12/24:
+
+Leetcode Easy x1
+
+OSTEP review: ch 29 (concurrent data structures)
+
+Mother's Day + Break Day :)
+
+
+### 5/13/24:
+
+Leetcode Easy x1, Medium x1, Hard x1
+
+Started on USACO guide - Silver (https://usaco.guide/silver) (Doing problems from there)
+--> 2x Prefix Sum Questions, Currently reading about Coordinate Compression
+
+### 5/14/24:
+
+Leetcode Medium x1
+
+USACO: Coordinate Compression, Two Pointers, Sorted Sets, Multisets, Custom Comparators
+
+Computer Architecture: A quantitative approach: Skimmed ch. 1

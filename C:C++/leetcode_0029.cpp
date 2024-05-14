@@ -6,7 +6,7 @@
 
 
 using namespace std;
-// Shortcuts for "common" data types in contests
+// Shortcuts for "common" raw types in contests
 typedef long long ll;
 typedef vector<int> vi;
 typedef pair<int, int> ii;
