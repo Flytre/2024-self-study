@@ -116,6 +116,36 @@ Started on USACO guide - Silver (https://usaco.guide/silver) (Doing problems fro
 
 Leetcode Medium x1
 
-USACO: Coordinate Compression, Two Pointers, Sorted Sets, Multisets, Custom Comparators
+USACO: Coordinate Compression, Two Pointers, Sorted Sets, Multisets, Custom Comparators, Greedy Algorithms with Sorting
 
 Computer Architecture: A quantitative approach: Skimmed ch. 1
+
+
+### 5/15/24:
+
+Leetcode Medium x1
+
+USACO: Binary Search on Arbitrary Monotonic Functions, Graph Traversal, Kosuraja's Algorithm
+
+
+
+### 5/15/24:
+
+Leetcode Medium x1
+
+USACO: Binary Search, Graph Traversal
+
+
+### 5/16/24:
+
+IMC Launchpad Day 1
+
+### 5/17/24:
+
+IMC Launchpad Day 2
+
+### 5/18/24:
+
+USACO: Graph Traversal, Flood Fill, Trees
+
+Leetcode Weekly Contest #398 (4/4 solved)
