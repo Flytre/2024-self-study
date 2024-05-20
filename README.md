@@ -149,3 +149,13 @@ IMC Launchpad Day 2
 USACO: Graph Traversal, Flood Fill, Trees
 
 Leetcode Weekly Contest #398 (4/4 solved)
+
+### 5/19/24:
+
+Leetcode Hard x1
+
+Break Day #2
+
+### 5/20/24:
+
+Codeforces Div 3 Contest (4/7 solved, 5/7 right after time)
