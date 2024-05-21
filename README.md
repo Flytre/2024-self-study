@@ -158,4 +158,10 @@ Break Day #2
 
 ### 5/20/24:
 
-Codeforces Div 3 Contest (4/7 solved, 5/7 right after time)
+Codeforces Div 3 Contest (4/7 solved)
+
+Leetcode Easy x1 (intro bitmasking)
+
+Resume work
+
+USACO: Bitmasking
