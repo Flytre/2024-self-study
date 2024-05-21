@@ -165,3 +165,9 @@ Leetcode Easy x1 (intro bitmasking)
 Resume work
 
 USACO: Bitmasking
+
+### 5/21/24:
+
+Leetcode x1
+
+USACO: Bitmasking, Segment Trees
