@@ -170,4 +170,11 @@ USACO: Bitmasking
 
 Leetcode x1
 
-USACO: Bitmasking, Segment Trees
+USACO: Bitmasking, Segment Trees, Euler Tours
+
+
+### 5/22/24:
+
+Leetcode x1
+
+USACO: SIlver Misc. (Binary Search, Prefix Sums, Sorting)i 
