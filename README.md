@@ -178,3 +178,34 @@ USACO: Bitmasking, Segment Trees, Euler Tours
 Leetcode x1
 
 USACO: SIlver Misc. (Binary Search, Prefix Sums, Sorting)i 
+
+
+### 5/23/24:
+
+Leetcode x1
+
+USACO: Silver Misc. (Binary Search, Sorting, Dynamic Programming)
+
+### 5/24/24:
+
+Leetcode x1
+
+Rust basics (Internship prep) (https://doc.rust-lang.org/book/)
+
+USACO: Knapsack DP
+
+### 5/25/24:
+
+Leetcode x1
+
+USACO: Seg tree variation questions
+
+Leetcode Weekly Contest
+
+### 5/26/24:
+
+Leetcode x 1
+
+System Design Interview: Alex Yu (added to repo)
+
+Reread: Computing Networking (IPv4 section 4.3)
