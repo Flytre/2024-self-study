@@ -209,3 +209,44 @@ Leetcode x 1
 System Design Interview: Alex Yu (added to repo)
 
 Reread: Computing Networking (IPv4 section 4.3)
+
+### 5/27/24:
+
+Leetcode x1 
+
+System Design Interview: Alex Yu
+
+### 5/28/24:
+
+Leetcode x1 
+
+System Design Interview: Alex Yu
+
+### 5/29/24:
+
+Leetcode x1 
+
+System Design Interview: Alex Yu
+
+### 5/30/24:
+
+Leetcode x1
+
+New Project: Custom Unix Shell in C. Progress: `read_line` implemented in C.
+
+
+### June 3rd:
+
+USACO: Divisbiility / Primes
+
+Knuth-Morris-Pratt algorithm
+
+
+### Etc.
+
+I stopped live uploading. Here's my suggestion:
+
+1. Always do the LC of the day if its a medium or hard.
+2. Try to do CF and LC contests if you have time and are free.
+3. Work through usaco.guide and cses.fi problems.
+4. Read OSTEP, Networking, linux, and language trivia.
